@@ -1,0 +1,60 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="5" />
+      <entry action="$Cut" count="2" />
+      <entry action="$Delete" count="44" />
+      <entry action="$Paste" count="10" />
+      <entry action="$Redo" count="5" />
+      <entry action="$SelectAll" count="68" />
+      <entry action="$Undo" count="322" />
+      <entry action="Android.RunAndroidAvdManager" count="7" />
+      <entry action="Android.RunAndroidSdkManager" count="7" />
+      <entry action="Android.RunLayoutInspector" count="1" />
+      <entry action="Android.SyncProject" count="1" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="Back" count="1" />
+      <entry action="CleanGradleProject" count="1" />
+      <entry action="CollapseRegion" count="1" />
+      <entry action="CommentByLineComment" count="20" />
+      <entry action="CopyReference" count="1" />
+      <entry action="DialogOkAction Enter" count="22" />
+      <entry action="EditorBackSpace" count="2109" />
+      <entry action="EditorChooseLookupItem" count="753" />
+      <entry action="EditorCopy" count="194" />
+      <entry action="EditorCut" count="41" />
+      <entry action="EditorDelete" count="657" />
+      <entry action="EditorDown" count="330" />
+      <entry action="EditorEnter" count="496" />
+      <entry action="EditorLeft" count="67" />
+      <entry action="EditorLineEnd" count="2" />
+      <entry action="EditorPaste" count="261" />
+      <entry action="EditorRight" count="223" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorTab" count="2" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUp" count="27" />
+      <entry action="FileChooser.Delete" count="1" />
+      <entry action="FileChooser.GotoDesktop" count="1" />
+      <entry action="FileChooser.GotoHome" count="1" />
+      <entry action="FileChooser.GotoProject" count="1" />
+      <entry action="FileChooser.NewFolder" count="3" />
+      <entry action="FileChooser.ShowHiddens" count="1" />
+      <entry action="Find" count="2" />
+      <entry action="Generate" count="13" />
+      <entry action="GotoDeclaration" count="507" />
+      <entry action="HideAllWindows" count="26" />
+      <entry action="NewClass" count="23" />
+      <entry action="NewElementSamePlace" count="1" />
+      <entry action="NewProject" count="10" />
+      <entry action="NextTemplateVariable" count="1" />
+      <entry action="OpenFile" count="19" />
+      <entry action="Progress Resumed" count="1" />
+      <entry action="RebuildGradleProject" count="1" />
+      <entry action="ReformatCode" count="60" />
+      <entry action="RenameElement" count="6" />
+      <entry action="Run" count="261" />
+      <entry action="ShowIntentionActions" count="139" />
+      <entry action="Stop" count="87" />
+      <entry action="ToggleLineBreakpoint" count="5" />
+      <entry action="template.create.ActivityBasic 

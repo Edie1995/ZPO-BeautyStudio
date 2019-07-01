@@ -1,0 +1,109 @@
+<application>
+    <component name="ActionsCollector">
+        <counts>
+            <entry
+                action="$Copy"
+                count="5" />
+            <entry
+                action="$Cut"
+                count="2" />
+            <entry
+                action="$Delete"
+                count="44" />
+            <entry
+                action="$Paste"
+                count="10" />
+            <entry
+                action="$Redo"
+                count="5" />
+            <entry
+                action="$SelectAll"
+                count="68" />
+            <entry
+                action="$Undo"
+                count="322" />
+            <entry
+                action="Android.RunAndroidAvdManager"
+                count="7" />
+            <entry
+                action="Android.RunAndroidSdkManager"
+                count="7" />
+            <entry
+                action="Android.RunLayoutInspector"
+                count="1" />
+            <entry
+                action="Android.SyncProject"
+                count="1" />
+            <entry
+                action="AndroidConnectDebuggerAction"
+                count="1" />
+            <entry
+                action="Back"
+                count="1" />
+            <entry
+                action="CleanGradleProject"
+                count="1" />
+            <entry
+                action="CollapseRegion"
+                count="1" />
+            <entry
+                action="CommentByLineComment"
+                count="20" />
+            <entry
+                action="CopyReference"
+                count="1" />
+            <entry
+                action="DialogOkAction Enter"
+                count="22" />
+            <entry
+                action="EditorBackSpace"
+                count="2093" />
+            <entry
+                action="EditorChooseLookupItem"
+                count="733" />
+            <entry
+                action="EditorCopy"
+                count="192" />
+            <entry
+                action="EditorCut"
+                count="38" />
+            <entry
+                action="EditorDelete"
+                count="655" />
+            <entry
+                action="EditorDown"
+                count="329" />
+            <entry
+                action="EditorEnter"
+                count="492" />
+            <entry
+                action="EditorLeft"
+                count="67" />
+            <entry
+                action="EditorLineEnd"
+                count="2" />
+            <entry
+                action="EditorPaste"
+                count="256" />
+            <entry
+                action="EditorRight"
+                count="220" />
+            <entry
+                action="EditorSplitLine"
+                count="2" />
+            <entry
+                action="EditorTab"
+                count="2" />
+            <entry
+                action="EditorToggleInsertState"
+                count="2" />
+            <entry
+                action="EditorUp"
+                count="27" />
+            <entry
+                action="FileChooser.Delete"
+                count="1" />
+            <entry
+                action="FileChooser.GotoDesktop"
+                count="1" />
+            <entry action="FileChooser.GotoH

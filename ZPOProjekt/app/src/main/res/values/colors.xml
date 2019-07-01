@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <test>
+        <access1>113AL</access1>
+        <access2>119AL</access2>
+    </test>
+    <test>
+        <access2>115AL</access2>
+        <access3>116AL</access3>
+    </test>
+    <test>
+        <access4>118AL</access4>
+        <access5>119AL</access5>
+    </test>
+    <copies>
+        <test2>
+            <access>113AL</access>
+            <Copy>Y</Copy>
+        </test2>
+        <test2>
+            <access>113AX</access>
+            <Copy>N</Copy>
+        </test2>
+    </copies>
+</root>
